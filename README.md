@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hey there, I'm Charles 👋
+
+I work in sales at Aikido Security, where we help devs ship secure code without slowing them down.
+
+💬 Always happy to chat about software security.
+
+👾 Aikido scans everything from code to cloud (15+ ways). Our AI cuts through the noise, catches issues early and reduces false positives by 85% — so you can spend less time triaging and more time shipping.
 
 <!--
 **charlesj0hnson/charlesj0hnson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
